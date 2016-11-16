@@ -1,4 +1,4 @@
-### Exemplos Básicos Utilizando Rruby Shoes
+### Exemplos Básicos Utilizando Ruby Shoes
 
 - Exemplo exibindo botão com mensagem de alerta.
 Arquivo utilizado ```button.rb```
